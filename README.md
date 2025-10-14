@@ -2,7 +2,7 @@
 
 In this session, we are going to explore how **Proper Orthogonal Decomposition (POD)** combined with **Regression techniques** can be used to build a **Reduced-Order Model (ROM)** for a combustion dataset.  
 
-The exercise will be carried out entirely in Google Colab — no local installation is required.  
+The exercise will be carried out entirely in Google Colab, no local installation is required.  
 
 ---
 
