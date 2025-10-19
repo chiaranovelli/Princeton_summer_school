@@ -11,7 +11,7 @@ The exercise will be carried out entirely in Google Colab, no local installation
 
 Open the notebook ROM_exercise.ipynb directly in Google Colab using this link: 
 
-https://colab.research.google.com/github/chiaranovelli/DII4ET_exercise_naples/blob/main/ROM_exercise
+[ROM_exercise](https://colab.research.google.com/github/chiaranovelli/DII4ET_exercise_naples/blob/main/ROM_exercise.ipynb)
 
 **"Open in Colab"**  
 
