@@ -1,4 +1,4 @@
-# DII4ET_exercise_naples
+# Princeton summer school
 
 In this session, we are going to explore how **Proper Orthogonal Decomposition (POD)** combined with **Regression techniques** can be used to build a **Reduced-Order Model (ROM)** for a combustion dataset.  
 
